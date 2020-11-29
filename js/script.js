@@ -1,5 +1,5 @@
 $(document).ready(function() {
 	//our code goes
-	$('#container').html('<strong>hello</strong>')
+	$('#container').text('hello')
 	$('.class1').text('hello');
 });
